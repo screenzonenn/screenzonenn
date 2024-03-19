@@ -4,15 +4,15 @@
 
 Regional IT Manager–APAC : Neovia Logistics LLC. | 04/2014 - Present
 
-<u1{list-style-type: circle;}
+<u1>
 
 <li>Led a global IT team responsible for ITSM, service desk, and identity management across APAC.</li>
-Built strong relationships with warehouse operations managers, ensuring satisfaction with IT support.
-Managed incidents, problems, and changes within agreed SLAs, fostering high levels of customer satisfaction.
-Successfully migrated data from Caterpillar to Neovia with minimal downtime, ensuring continuity of operations.
-Achieved a first-call resolution rate of over 95% for incidents, improving efficiency and user experience.
-Implemented low-cost IT hardware solutions, achieving savings of 30% or more on each device.
-Customized and implemented hardware asset management processes using ServiceNow, improving inventory management and tracking.
+<li>Built strong relationships with warehouse operations managers, ensuring satisfaction with IT support.</li>
+<li>Managed incidents, problems, and changes within agreed SLAs, fostering high levels of customer satisfaction.</li>
+<li>Successfully migrated data from Caterpillar to Neovia with minimal downtime, ensuring continuity of operations.</li>
+<li>Achieved a first-call resolution rate of over 95% for incidents, improving efficiency and user experience.</li>
+<li>Implemented low-cost IT hardware solutions, achieving savings of 30% or more on each device.</li>
+<li>Customized and implemented hardware asset management processes using ServiceNow, improving inventory management and tracking.</li>
 </u1>
 
 Team Lead - Bangalore
