@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kannan Velayudam</h1>
 <h3 align="justify">Experienced and dynamic IT Service operations manager with over 18 years of IT managed services and ITSM practice. Demonstrated expertise in networking, endpoint security, and active directory management. Skilled in aligning ITSM practices with comprehensive P&L management and delivering on-time, within-budget project implementations. Proven track record of reducing IT hardware costs and ensuring optimal stock levels without compromising performance.</h3>
-<h4>Work Experience:</b>
+<h4 align="justify">Work Experience:</b>
 
 Regional IT Manager–APAC
 Neovia Logistics LLC. | 04/2014 - Present
