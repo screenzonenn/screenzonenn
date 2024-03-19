@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kannan Velayudam</h1>
 <h3 align="justify">Experienced and dynamic IT Service operations manager with over 18 years of IT managed services and ITSM practice. Demonstrated expertise in networking, endpoint security, and active directory management. Skilled in aligning ITSM practices with comprehensive P&L management and delivering on-time, within-budget project implementations. Proven track record of reducing IT hardware costs and ensuring optimal stock levels without compromising performance.</h3>
-<h4 align="justify">Work Experience:</b>
-
+<h4 align="justify">Work Experience: 
 Regional IT Manager–APAC : Neovia Logistics LLC. | 04/2014 - Present
-
 <u1>
-
 <li>Led a global IT team responsible for ITSM, service desk, and identity management across APAC.</li>
 <li>Built strong relationships with warehouse operations managers, ensuring satisfaction with IT support.</li>
 <li>Managed incidents, problems, and changes within agreed SLAs, fostering high levels of customer satisfaction.</li>
@@ -14,16 +11,14 @@ Regional IT Manager–APAC : Neovia Logistics LLC. | 04/2014 - Present
 <li>Implemented low-cost IT hardware solutions, achieving savings of 30% or more on each device.</li>
 <li>Customized and implemented hardware asset management processes using ServiceNow, improving inventory management and tracking.</li>
 </u1>
+Team Lead - Bangalore : NTT Data Global Delivery Services Pvt. Ltd. | 12/2007 - 10/2013
 
-Team Lead - Bangalore
-NTT Data Global Delivery Services Pvt. Ltd. | 12/2007 - 10/2013
-
-Led a team supporting IT tasks for LSI's global service desk account, ensuring high levels of customer satisfaction.
-Coordinated with clients and support teams during IT system changes, ensuring smooth transitions.
-Conducted technical, process, and communication training for team members, improving overall performance.
-Prepared weekly VOC reports, identifying trends and initiating training programs to address areas for improvement.
-Achieved a 3% increase in CSAT scores through targeted training initiatives and improvements in agent performance.
-Successfully migrated to new cost-effective tools, enhancing operational efficiency and user experience.
+<li>Led a team supporting IT tasks for LSI's global service desk account, ensuring high levels of customer satisfaction.</li>
+<li>Coordinated with clients and support teams during IT system changes, ensuring smooth transitions.</li>
+<li>Conducted technical, process, and communication training for team members, improving overall performance.</li>
+<li>Prepared weekly VOC reports, identifying trends and initiating training programs to address areas for improvement.</li>
+<li>Achieved a 3% increase in CSAT scores through targeted training initiatives and improvements in agent performance.</li>
+<li>Successfully migrated to new cost-effective tools, enhancing operational efficiency and user experience.</li>
 
 Projects:
 
