@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @screenzonenn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Kannan Velayudam</h1>
+<h3 align="center">Experienced and dynamic IT Service operations manager with over 18 years of IT managed services and ITSM practice. Demonstrated expertise in networking, endpoint security, and active directory management. Skilled in aligning ITSM practices with comprehensive P&L management and delivering on-time, within-budget project implementations. Proven track record of reducing IT hardware costs and ensuring optimal stock levels without compromising performance.</h3>
 
-<!---
-screenzonenn/screenzonenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=screenzonnn&label=Profile%20views&color=0e75b6&style=flat" alt="screenzonnn" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=screenzonnn" alt="screenzonnn" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/screenzonenn/template](https://github.com/screenzonenn/template)
+
+- 📝 I regularly write articles on [https://www.experts-exchange.com/topics/microsoft/](https://www.experts-exchange.com/topics/microsoft/)
+
+- 📫 How to reach me **kannanbgd@hotmail.com**
+
+- 📄 Know about my experiences [https://in.linkedin.com/in/kannan-velayudam-785a323](https://in.linkedin.com/in/kannan-velayudam-785a323)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=screenzonnn&show_icons=true&locale=en&layout=compact" alt="screenzonnn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=screenzonnn&show_icons=true&locale=en" alt="screenzonnn" /></p>
