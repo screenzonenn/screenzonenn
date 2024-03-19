@@ -2,16 +2,18 @@
 <h3 align="justify">Experienced and dynamic IT Service operations manager with over 18 years of IT managed services and ITSM practice. Demonstrated expertise in networking, endpoint security, and active directory management. Skilled in aligning ITSM practices with comprehensive P&L management and delivering on-time, within-budget project implementations. Proven track record of reducing IT hardware costs and ensuring optimal stock levels without compromising performance.</h3>
 <h4 align="justify">Work Experience:</b>
 
-Regional IT Manager–APAC
-Neovia Logistics LLC. | 04/2014 - Present
+Regional IT Manager–APAC : Neovia Logistics LLC. | 04/2014 - Present
 
-Led a global IT team responsible for ITSM, service desk, and identity management across APAC.
+<u1{list-style-type: circle;}
+
+<li>Led a global IT team responsible for ITSM, service desk, and identity management across APAC.</li>
 Built strong relationships with warehouse operations managers, ensuring satisfaction with IT support.
 Managed incidents, problems, and changes within agreed SLAs, fostering high levels of customer satisfaction.
 Successfully migrated data from Caterpillar to Neovia with minimal downtime, ensuring continuity of operations.
 Achieved a first-call resolution rate of over 95% for incidents, improving efficiency and user experience.
 Implemented low-cost IT hardware solutions, achieving savings of 30% or more on each device.
 Customized and implemented hardware asset management processes using ServiceNow, improving inventory management and tracking.
+</u1>
 
 Team Lead - Bangalore
 NTT Data Global Delivery Services Pvt. Ltd. | 12/2007 - 10/2013
