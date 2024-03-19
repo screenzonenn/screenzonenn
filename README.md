@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kannan Velayudam</h1>
 <h3 align="justify">Experienced and dynamic IT Service operations manager with over 18 years of IT managed services and ITSM practice. Demonstrated expertise in networking, endpoint security, and active directory management. Skilled in aligning ITSM practices with comprehensive P&L management and delivering on-time, within-budget project implementations. Proven track record of reducing IT hardware costs and ensuring optimal stock levels without compromising performance.</h3>
+<h4>Work Experience:
+
+Regional IT Manager–APAC
+Neovia Logistics LLC. | 04/2014 - Present
+
+Led a global IT team responsible for ITSM, service desk, and identity management across APAC.
+Built strong relationships with warehouse operations managers, ensuring satisfaction with IT support.
+Managed incidents, problems, and changes within agreed SLAs, fostering high levels of customer satisfaction.
+Successfully migrated data from Caterpillar to Neovia with minimal downtime, ensuring continuity of operations.
+Achieved a first-call resolution rate of over 95% for incidents, improving efficiency and user experience.
+Implemented low-cost IT hardware solutions, achieving savings of 30% or more on each device.
+Customized and implemented hardware asset management processes using ServiceNow, improving inventory management and tracking.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=screenzonnn&label=Profile%20views&color=0e75b6&style=flat" alt="screenzonnn" /> </p>
 
